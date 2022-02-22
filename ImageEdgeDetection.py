@@ -5,9 +5,10 @@
 # Description:
 #   This Python application performs edge detection on an
 # Mach-E image.  It creates a gray-scale version of the
-# image and then detects its edges.  It takes about five
-# minutes to run the application on an image with
-# dimensions 2,560 x 1,709. 
+# image and then detects its edges.  It requires module 
+# cImage to be downloaded and installed.  The application
+# takes about five minutes to run on an image with
+# dimensions 2,560 x 1,709.
 #
 #===========================================================
   
