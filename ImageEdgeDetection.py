@@ -7,7 +7,7 @@
 # Mach-E image.  It creates a gray-scale version of the
 # image and then detects its edges.  It takes about five
 # minutes to run the application on an image with
-# dimensions 2,560 x 1,709.
+# dimensions 2,560 x 1,709. 
 #
 #===========================================================
   
